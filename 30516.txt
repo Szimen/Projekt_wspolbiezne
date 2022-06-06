@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hahahhahahaha
 asahsj
+=======
+<<<<<<< HEAD
+hahahhahahaha
+asahsj
+=======
+hahahhahahaha
+asahsj
+>>>>>>> c64211f (Zmiana w pliku 2)
+>>>>>>> 018d729f5ddc7b1418c3937684af4002dd55d26f
