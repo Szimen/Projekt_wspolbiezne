@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfgh
+=======
+asdfgh
+>>>>>>> c64211f (Zmiana w pliku 2)
